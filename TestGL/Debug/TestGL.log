@@ -1,0 +1,15 @@
+﻿Build started 2014/3/10 18:41:24.
+     1>Project "C:\Users\cocos\Desktop\TestGL\TestGL\TestGL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\cocos\Desktop\TestGL\TestGL\../glfw3/include/win32 /IC:\Users\cocos\Desktop\TestGL\TestGL\../gles\include\OGLES\GL /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TestGL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TestGL.cpp
+         TestGL.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cocos\Desktop\TestGL\Debug\TestGL.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\cocos\Desktop\TestGL\TestGL\..\glfw3\prebuilt\win32 /LIBPATH:C:\Users\cocos\Desktop\TestGL\TestGL\..\gles\prebuilt glew32.lib glfw3.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cocos\Desktop\TestGL\Debug\TestGL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cocos\Desktop\TestGL\Debug\TestGL.lib" /MACHINE:X86 Debug\TestGL.res
+         Debug\stdafx.obj
+         Debug\TestGL.obj
+         TestGL.vcxproj -> C:\Users\cocos\Desktop\TestGL\Debug\TestGL.exe
+     1>Done Building Project "C:\Users\cocos\Desktop\TestGL\TestGL\TestGL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.55
